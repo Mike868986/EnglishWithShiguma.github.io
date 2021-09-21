@@ -155,7 +155,8 @@ footer {
     text-align: center;
     color: #ffffff;
     padding: 20px 0;
-    background-color: #ffffff;
+    background-color: #777777;
+    margin-top: 20px;
 }
 
 #portfolio h1 {
