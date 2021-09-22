@@ -55,7 +55,11 @@ a:hover {
     float: right;
     margin-right: 70px;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+#index .header-list {
+    color: #111111;
 }
 
 .header-list li {
