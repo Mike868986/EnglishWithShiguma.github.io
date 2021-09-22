@@ -212,6 +212,10 @@ footer {
     #portfolio .header-logo {
         font-size: 5.0vw;
     }
+    
+    #portfolio .header-list {
+        font-size: 4.0vw;
+    }
 }
 
 #index span {
