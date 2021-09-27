@@ -188,8 +188,8 @@ footer {
         padding: 35px 0 0;
     }
 
-    .content {
-        width: 100%;
+    #portfolio .content {
+        margin: 0 5%;
     }
 
     .main {
