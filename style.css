@@ -58,9 +58,6 @@ a:hover {
     font-size: 25px;
 }
 
-#index .header-list li {
-    color: #111111;
-}
 
 .header-list li {
     float: left;
@@ -223,6 +220,10 @@ footer {
     
     #line-btn {
         margin-bottom: 20px;
+    }
+    
+    #index .header-list li {
+    color: #111111;
     }
     
     
