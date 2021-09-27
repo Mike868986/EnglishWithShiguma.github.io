@@ -221,13 +221,16 @@ footer {
     #portfolio .header-list {
         font-size: 4.0vw;
     }
+    
+    #line-btn {
+        margin-bottom: 20px;
+    }
+    
+    
 }
 
 #index span {
     color: rgb(165, 19, 19);
 }
 
-#line-btn {
-    margin-botoom: 30px;
-}
-    
+
