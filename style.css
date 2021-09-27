@@ -211,11 +211,12 @@ footer {
         height: auto;
     }
 
-    #portfolio .header-logo {
+    #index .header-logo {
         font-size: 5.0vw;
     }
     
-    #portfolio .header-list {
+    #index .header-list {
+        font-size: 5.0vw;
     }
     
     #line-btn {
