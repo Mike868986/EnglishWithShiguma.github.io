@@ -227,6 +227,14 @@ footer {
     color: #111111;
     }
     
+    #portfolio .header-logo {
+        font-size: 8.0vw;
+    }
+
+    #portfolio .header-list li {
+        font-size: 3.0vw;
+    }
+    
     
 }
 
